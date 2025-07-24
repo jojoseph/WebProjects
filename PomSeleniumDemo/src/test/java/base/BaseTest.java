@@ -20,6 +20,7 @@ import utils.DriverFactory;
  * - The browser is properly closed after each test method.
  */
 public class BaseTest {
+	
 
     // WebDriver instance accessible to all subclasses of BaseTest
     protected WebDriver driver;
