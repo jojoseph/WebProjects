@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Suite" parallel="false">
+  <test name="Smoke Tests">
+    <classes>
+      <class name="tests.HomeTest"/>
+    </classes>
+  </test>
+</suite>
